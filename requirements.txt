@@ -1,0 +1,17 @@
+# Deep Learning & Math
+tensorflow==2.19.0
+numpy>=1.23.5,<2.5
+scipy==1.15.2
+
+# Computer Vision & Image Processing
+opencv-python>=4.8.0
+
+# Visualization & UI
+matplotlib>=3.7.0
+streamlit>=1.0.0
+
+# Audio Output (Alert System)
+playsound>=1.3.0
+
+# Deployment & Packaging
+pyinstaller==6.13.0
