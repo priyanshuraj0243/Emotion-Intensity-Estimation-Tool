@@ -1,0 +1,20 @@
+Emotion Regression Tool - PRIYANSHU RAJ
+Version 1.0
+Copyright © 2025 Priyanshu Raj. All rights reserved.
+
+END USER LICENSE AGREEMENT (EULA)
+
+This software is provided "as is", without warranty of any kind, express or implied.
+By installing or using this software, you agree to the following terms:
+
+1. You are granted a non-commercial, non-transferable license to use this software.
+2. Redistribution of this software or its components is not permitted without prior written permission.
+3. You may not reverse-engineer, decompile, or modify any part of this software.
+4. This software collects no personal data and runs entirely on your local system.
+5. The developer (Priyanshu Raj) is not responsible for any loss, damage, or misuse resulting from the use of this software.
+6. You install and use this software entirely at your own risk.
+
+If you do not agree to these terms, please cancel the installation and remove all copies.
+
+Built with passion by:
+PRIYANSHU RAJ
